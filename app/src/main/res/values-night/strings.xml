@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_widget">Select Widget</string>
+    <string-array name="widgets_array" >
+        <item> Clock</item>
+        <item> Battery Indicator</item>
+        <item> Weather</item>
+    </string-array>
+
+</resources>

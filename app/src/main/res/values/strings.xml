@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MustafaJobTestProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_app_drawer">AppDrawerActivity</string>
+    <string name="appwidget_text">MyClock</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="select_widget">Select Widget</string>
+
+    <string-array name="widgets_array">
+
+        <item> Battery Indicator </item>
+        <item> Weather</item>
+        <item> Clock</item>
+    </string-array>
+
+</resources>

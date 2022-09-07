@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.MustafaJobTestProject.AppWidget.Container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:theme="@style/AppTheme.AppWidgetContainer">
+
+    <TextView
+        android:id="@+id/tvBattery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+</RelativeLayout>
